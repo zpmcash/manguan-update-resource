@@ -1,2 +1,14 @@
 # manguan-update-resource
-HTML page archive and documentation
+
+独立页面发布说明
+
+这个目录用于承载静态页面文件，内容会随发布任务持续补充。
+
+## 维护文件
+
+- 静态页面保存在根目录
+- README 提供简要说明
+
+## 存档说明
+
+页面文件会持续归档，后续内容以实际发布结果为准。
